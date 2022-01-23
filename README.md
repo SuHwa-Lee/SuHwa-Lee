@@ -1,4 +1,4 @@
-### 🌸 기록되지 않는 것은 기억되지 않는다 🌸
+###  기록되지 않는 것은 기억되지 않는다 ✍
 
 <!--
 **shlee0820/shlee0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
