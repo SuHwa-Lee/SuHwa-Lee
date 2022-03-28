@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffedf3&height=300&section=header&text=😊%20welcome%20😊&fontSize=50&fontColor=ffa6c3)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffedf3&height=190&section=header&text=😊%20welcome%20😊&fontSize=50&fontColor=ffa6c3)
 
 <div align="center">
     <h2>✨ ABOUT ME ✨</h2>
@@ -32,11 +32,10 @@
 
 <br>
 <br>
-<br>
-<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shlee0820&show_icons=true&bg_color=ffedf3&text_color=ffa6c3&title_color=ffa6c3&icon_color=ffa6c3"/>
 </div>
 
 
-
+<br>
+<br>
