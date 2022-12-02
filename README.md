@@ -5,7 +5,7 @@
 <div>
     <h3>Profile</h3>
     <div>👩‍🎓 KIT University Dept. of Computer Science (2019.03-2023.02)</div>
-    <div>🦁 LikeLion Univ 10th Management (2021.12-2022.12)</div>
+    <div>🦁 LikeLion Univ 10th FrontEnd Management (2021.12-2022.12)</div>
 </div>
 <br/>
 <div>
