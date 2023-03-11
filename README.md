@@ -1,7 +1,3 @@
-
-<div>
-    <h2>Su Hwa, Lee</h2>
-</div> 
 <div>
     <h3>Profile</h3>
     <div>👩‍🎓 KIT University Dept. of Computer Science (2019.03-2023.02)</div>
