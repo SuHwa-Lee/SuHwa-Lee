@@ -10,7 +10,7 @@
             <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
             <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
       </div>
-      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Collaboration Tools </h2> <br> 
+      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💡 Collaboration Tools </h2> <br> 
       <div style="margin: 0 auto; text-align: center;" align= "center"> 
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
             <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
@@ -23,18 +23,21 @@
 
 <div align= "center"> 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-      
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frosielsh&count_bg=%2361B4FF&title_bg=%23555555&icon=azurepipelines.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-
 <div align="center">
   <a href="https://solved.ac/tnghk9611">
       <img 
+          width="400px"
           src="http://mazassumnida.wtf/api/generate_badge?boj=tnghk9611"/>
   </a>  
 <a href="https://github.com/rosielsh">
       <img 
+          width="465px"
           src="https://github-readme-stats.vercel.app/api?username=rosielsh&show_icons=true&theme=holi"/>
   </a>
 </div>
 </div>
-    
+<br/>
+<div align="right">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frosielsh&count_bg=%2361B4FF&title_bg=%23555555&icon=azurepipelines.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+</div>
