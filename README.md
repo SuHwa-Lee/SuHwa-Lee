@@ -26,12 +26,12 @@
 <div align="center">
   <a href="https://solved.ac/tnghk9611">
       <img 
-          width="400px"
+          width="300px"
           src="http://mazassumnida.wtf/api/generate_badge?boj=tnghk9611"/>
   </a>  
 <a href="https://github.com/rosielsh">
       <img 
-          width="465px"
+          width="350px"
           src="https://github-readme-stats.vercel.app/api?username=rosielsh&show_icons=true&theme=holi"/>
   </a>
 </div>
