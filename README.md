@@ -24,10 +24,11 @@
 <div align= "center"> 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
 <div align="center">
+    
   <a href="https://solved.ac/tnghk9611">
       <img 
           width="300px"
-          src="http://mazassumnida.wtf/api/generate_badge?boj=tnghk9611"/>
+          src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnghk9611"/>
   </a>  
 <a href="https://github.com/rosielsh">
       <img 
