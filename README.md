@@ -1,4 +1,4 @@
-<div align= "center"> 
+<!--<div align= "center"> 
     <div align= "center">
       <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
       <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -21,10 +21,11 @@
       </div>
     </div>
 
-<div align= "center"> 
+    <div align= "center"> 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
 <div align="center">
-    
+-->
+   <div align= "center">   
   <a href="https://solved.ac/tnghk9611">
       <img 
           width="300px"
